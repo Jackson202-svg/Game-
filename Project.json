@@ -16,5 +16,47 @@
     "description": "A simple weather app fetching live data from an API.",
     "link": "weather-app.html",
     "tags": ["app", "api", "javascript"]
+  },
+  {
+    "name": "To-Do List",
+    "description": "A task management app with local storage support.",
+    "link": "todo.html",
+    "tags": ["app", "productivity", "javascript"]
+  },
+  {
+    "name": "Calculator",
+    "description": "A responsive calculator built with HTML, CSS, and JS.",
+    "link": "calculator.html",
+    "tags": ["tool", "calculator", "javascript"]
+  },
+  {
+    "name": "Memory Game",
+    "description": "A fun card memory game to test your concentration.",
+    "link": "memory-game.html",
+    "tags": ["game", "cards", "javascript"]
+  },
+  {
+    "name": "Blog Template",
+    "description": "A clean, responsive blog template ready to use.",
+    "link": "blog-template.html",
+    "tags": ["website", "template", "html"]
+  },
+  {
+    "name": "Pomodoro Timer",
+    "description": "A productivity timer using the Pomodoro technique.",
+    "link": "pomodoro.html",
+    "tags": ["app", "productivity", "javascript"]
+  },
+  {
+    "name": "Quiz App",
+    "description": "An interactive quiz app with multiple-choice questions.",
+    "link": "quiz.html",
+    "tags": ["app", "quiz", "javascript"]
+  },
+  {
+    "name": "Snake Game",
+    "description": "Classic snake game built with canvas and JS.",
+    "link": "snake-game.html",
+    "tags": ["game", "classic", "javascript"]
   }
 ]
