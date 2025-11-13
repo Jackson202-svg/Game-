@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Drift Game",
+    "description": "A mobile-friendly car drift game with joystick controls.",
+    "link": "drift-game.html",
+    "tags": ["game", "mobile", "drift"]
+  },
+  {
+    "name": "Portfolio Website",
+    "description": "My personal portfolio website showing projects and skills.",
+    "link": "portfolio.html",
+    "tags": ["website", "portfolio", "html"]
+  },
+  {
+    "name": "Weather App",
+    "description": "A simple weather app fetching live data from an API.",
+    "link": "weather-app.html",
+    "tags": ["app", "api", "javascript"]
+  }
+]
